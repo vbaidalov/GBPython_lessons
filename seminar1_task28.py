@@ -13,6 +13,3 @@ def sum(a, b):
         return b;
     return sum(a - 1, b + 1)
 print(sum(a, b))
-
-
-
