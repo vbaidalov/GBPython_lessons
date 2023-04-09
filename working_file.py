@@ -1,5 +1,5 @@
-import function_file
+from Seminar08 import functions
 
-print(function_file.f(1)) # Целое
-print(function_file.f(2.3)) # 23
-print(function_file.f(28)) # None
+print(functions.f(1)) # Целое
+print(functions.f(2.3)) # 23
+print(functions.f(28)) # None
